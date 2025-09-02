@@ -17,7 +17,10 @@ Storybook is used for interactive documentation and preview.
 - 🔄 Deployable on Vercel or Chromatic
 
 ---
-
+📸 Screenshots / GIFs
+<img width="1489" height="892" alt="Screenshot 2025-09-02 231846" src="https://github.com/user-attachments/assets/88033c91-3661-4f3e-a49b-41ac380bfc2b" />
+<img width="1288" height="795" alt="image" src="https://github.com/user-attachments/assets/e1b2f9be-97b8-4887-95d9-7b22c51f7649" />
+---
 ## 📂 Folder Structure
 react-ui-lib/
 ├── .storybook/ # Storybook configuration
